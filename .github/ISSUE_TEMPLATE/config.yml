@@ -1,0 +1,7 @@
+---
+blank_issues_enabled: true
+
+contact_links:
+  - name: CivicActions
+    url: https://civicactions.com/contact/
+    about: The primary maintainer of this project
